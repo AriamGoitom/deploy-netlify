@@ -1,0 +1,14 @@
+button {
+    background-color: aqua;
+    border: none;
+    width:150px;
+    height: 60px;
+    border-radius: 75px;
+    margin-top: 50px;
+    cursor: pointer;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+}
